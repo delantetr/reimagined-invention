@@ -15,7 +15,8 @@ rovide instructions and examples for use. Include screenshots as needed.P
 
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
 
-![alt text](./assets/images/Screen%20Shot%202023-05-26%20at%209.43.51%20AM.png)
+![alt text](./assets/images/screencapture-file-Users-delantetr-UNCC-Bootcamp-Workspace-Challenges-Challenge-1-reimagined-invention-index-html-2023-05-26-11_05_42.pdf)
+
 
 
 ## License
